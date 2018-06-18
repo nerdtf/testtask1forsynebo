@@ -1,0 +1,7 @@
+G:\testtask\TestTask_1\Task1\Task1\bin\Debug\Task1.exe.config
+G:\testtask\TestTask_1\Task1\Task1\bin\Debug\Task1.exe
+G:\testtask\TestTask_1\Task1\Task1\bin\Debug\Task1.pdb
+G:\testtask\TestTask_1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+G:\testtask\TestTask_1\Task1\Task1\obj\Debug\Task1.exe
+G:\testtask\TestTask_1\Task1\Task1\obj\Debug\Task1.pdb
+G:\testtask\TestTask_1\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
